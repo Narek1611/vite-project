@@ -3,6 +3,6 @@
 @import "tailwindcss/utilities";
 
 body{
-  background: aqua;
+  background: rgb(145, 138, 168);
   text-align: center;
 }
